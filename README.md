@@ -4,7 +4,9 @@
  브랜치 참조.
  
  main 브랜치 = 앱 설명( 주기적 업데이트 예정. )
+ 
  master 브랜치 = 네이티브 코드 ( using react-native, expo, apollo )
+ 
  bg 브랜치 = 백엔드 코드 ( using react-native, graphql, prisma, Nodejs, express )
  
  
