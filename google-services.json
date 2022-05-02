@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500251709695",
+    "project_id": "fmailyquestionapp",
+    "storage_bucket": "fmailyquestionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500251709695:android:7963ae125b45e528e73cca",
+        "android_client_info": {
+          "package_name": "com.swoogroup.Familys9pm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500251709695-hku45d1ut6vla7lr7m3rfvugjmu2q3ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-oHGOAPDho41URxL5J8t_Brk7ZHl0tCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500251709695-hku45d1ut6vla7lr7m3rfvugjmu2q3ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
